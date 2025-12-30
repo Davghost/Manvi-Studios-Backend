@@ -21,7 +21,7 @@ Inside the extracted folder, locate the following file:
 microdados_censo_escolar_2024/dados/microdados_ed_basica_2024.csv
 
 
-Copy **only this file** and place it in the project at the following path:
+Copy **only this file** and place it in the project at the following path: data/microdados_ed_basica_2024.csv
 
 ## Important Notes
 
