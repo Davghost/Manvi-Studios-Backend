@@ -1,0 +1,5 @@
+.env
+venv/
+questions_bank.db
+__pycache__/
+static/profile_pics
